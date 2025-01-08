@@ -1,0 +1,11 @@
+
+    {
+        "workbench.colorCustomizations": {
+          "editor.background": "#000000", // Black background for editor
+          "activityBar.background": "#000000", // Black background for the Activity Bar
+          "sideBar.background": "#000000", // Black background for the Side Bar
+          "titleBar.activeBackground": "#000000", // Black background for the Title Bar
+          "titleBar.inactiveBackground": "#000000" // Black for inactive Title Bar
+        }
+      }
+      
