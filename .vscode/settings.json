@@ -1,11 +1,13 @@
-
-    {
-        "workbench.colorCustomizations": {
-          "editor.background": "#000000", // Black background for editor
-          "activityBar.background": "#000000", // Black background for the Activity Bar
-          "sideBar.background": "#000000", // Black background for the Side Bar
-          "titleBar.activeBackground": "#000000", // Black background for the Title Bar
-          "titleBar.inactiveBackground": "#000000" // Black for inactive Title Bar
-        }
-      }
-      
+{
+  "workbench.colorCustomizations": {
+    "editor.background": "#000000", // Black background for editor
+    "activityBar.background": "#000000", // Black background for the Activity Bar
+    "sideBar.background": "#000000", // Black background for the Side Bar
+    "titleBar.activeBackground": "#000000", // Black background for the Title Bar
+    "titleBar.inactiveBackground": "#000000", // Black for inactive Title Bar
+    "terminal.background": "#000000", // Black background for Terminal
+    "terminal.foreground": "#FFFFFF", // White text for better readability
+    "terminalCursor.background": "#ffffff", // Cursor background color
+    "terminalCursor.foreground": "#ffffff",  // Cursor color in the terminal
+  }
+}
